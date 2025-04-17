@@ -1,6 +1,6 @@
 # Minneapolis Rent Analysis
 
-This project aims to look at Minneapolis renting data (2020 + 2022) to gain determine what factors drive rent in Minneapolis and how rent has changed since 2020
+This project aims to look at Minneapolis renting data (2020 + 2022) to determine what factors drive rent in Minneapolis and how rent has changed since 2020
 
 
 ## Data sources

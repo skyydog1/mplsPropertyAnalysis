@@ -4,4 +4,4 @@ This project aims to look at Minneapolis renting data (2020 + 2022) to determine
 
 
 ## Data sources
-Mpls city gov: https://opendata.minneapolismn.gov/datasets/assessors-parcel-data-2022/explore
+Mpls city gov: https://opendata.minneapolismn.gov/datasets/assessors-parcel-data-2022/explore 

@@ -19,7 +19,7 @@ This will be geared towards property analysis, for real estate agents and for th
 ### Correlation Matrix
 1. (Ln and original) bedrooms, bathrooms, date built, distance from downtown
 
-### Ward Boxplots
+### Ward Boxplots ![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
 1. Use sns.boxplots to compare distribution of value between wards.
 
 ### Determine how rent has changed for each property and for each ward since 2022.

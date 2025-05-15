@@ -32,5 +32,6 @@ This will be geared towards property analysis, for real estate agents and for th
 ___________________________________________________________________________________________________________________________________________________________________________________________________________
 ## Data sources
 Mpls city gov: https://opendata.minneapolismn.gov/datasets/assessors-parcel-data-2022/explore 
+
 Mpls city gov: https://opendata.minneapolismn.gov/datasets/assessors-parcel-data-2020/explore 
 

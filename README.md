@@ -1,4 +1,4 @@
-# Minneapolis Rent Analysis
+# Minneapolis Rent Analysis :house:
 
 This project aims to look at Minneapolis property data (2020 + 2022) to determine what factors drive prices in Minneapolis, and practice visualizing information using Python, and increase access of information to property values.
 
@@ -6,13 +6,13 @@ This will be geared towards property analysis, for real estate agents and for th
 
 # What I aim to have done by the end of the project
 
-### Descriptive Stats by Ward
+### Descriptive Stats by Ward :chart:
 1. Mean, median, std dev (ln value and original)
 2. Count of total properties listed
 3. total value of building, land value, and total value
 4. Quartiles and IQR for variability
 
-### Price per Square Analysis
+### Price per Square Analysis :office:
 1. Normalized land, building, total value by square footage
 2. Find undervalued or undervalued
 
@@ -30,7 +30,7 @@ This will be geared towards property analysis, for real estate agents and for th
 
 
 ___________________________________________________________________________________________________________________________________________________________________________________________________________
-## Data sources
+## Data sources :date:
 Mpls city gov: https://opendata.minneapolismn.gov/datasets/assessors-parcel-data-2022/explore 
 
 Mpls city gov: https://opendata.minneapolismn.gov/datasets/assessors-parcel-data-2020/explore 

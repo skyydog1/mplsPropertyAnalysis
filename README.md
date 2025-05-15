@@ -4,7 +4,7 @@ This project aims to look at Minneapolis property data (2020 + 2022) to determin
 
 This will be geared towards property analysis, for real estate agents and for those analyzing the Minneapolis housing market.
 
-# What I aim to have done by the end of the project
+# What I aim to have done by the end of the project :heavy_check_mark:
 
 ### Descriptive Stats by Ward :chart:
 1. Mean, median, std dev (ln value and original)

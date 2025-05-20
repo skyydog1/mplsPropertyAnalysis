@@ -10,8 +10,7 @@
 <img src="https://raw.githubusercontent.com/skyydog1/mplsRentAnalysis/refs/heads/main/Images/ward_2_ln_dot_sorted.png" alt="Alt Text" width="450" height="600">
 
 ### Ward 3
-
-![alt text]()
+<img src="https://raw.githubusercontent.com/skyydog1/mplsRentAnalysis/refs/heads/main/Images/ward_3_ln_dot_sorted.png" alt="Alt Text" width="450" height="600">
 
 ### Ward 4
 <img src="https://raw.githubusercontent.com/skyydog1/mplsRentAnalysis/refs/heads/main/Images/ward_4_ln_dot_sorted.png" alt="Alt Text" width="450" height="600">
@@ -29,7 +28,7 @@
 <img src="https://raw.githubusercontent.com/skyydog1/mplsRentAnalysis/refs/heads/main/Images/ward_8_ln_dot_sorted.png" alt="Alt Text" width="450" height="600">
 
 ### Ward 9
-![alt text]()
+<img src="https://raw.githubusercontent.com/skyydog1/mplsRentAnalysis/refs/heads/main/Images/ward_9_ln_dot_sorted.png" alt="Alt Text" width="450" height="600">
 
 ### Ward 10
 <img src="https://raw.githubusercontent.com/skyydog1/mplsRentAnalysis/refs/heads/main/Images/ward_10_ln_dot_sorted.png" alt="Alt Text" width="450" height="600">

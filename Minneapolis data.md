@@ -3,7 +3,7 @@
 ### Minneapolis
 
 ![alt text](https://raw.githubusercontent.com/skyydog1/mplsRentAnalysis/refs/heads/main/Images/Log%20Total%20Property%20Value%20(Normalized).jpg)
-
+<img src="https://raw.githubusercontent.com/skyydog1/mplsRentAnalysis/refs/heads/main/Images/Log%20Total%20Property%20Value%20(Normalized).jpg" alt="Alt Text" width="300" height="200">
 ### Ward 1
 
 ![alt text](https://raw.githubusercontent.com/skyydog1/mplsRentAnalysis/refs/heads/main/Images/ward_1_ln_dot_sorted.png)

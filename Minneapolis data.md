@@ -20,33 +20,29 @@
 <img src="https://raw.githubusercontent.com/skyydog1/mplsRentAnalysis/refs/heads/main/Images/ward_5_ln_dot_sorted.png" alt="Alt Text" width="300" height="400">
 
 ### Ward 6
-
+<img src="https://raw.githubusercontent.com/skyydog1/mplsRentAnalysis/refs/heads/main/Images/ward_6_ln_dot_sorted.png" alt="Alt Text" width="300" height="400">
 
 ### Ward 7
+<img src="https://raw.githubusercontent.com/skyydog1/mplsRentAnalysis/refs/heads/main/Images/ward_7_ln_dot_sorted.png" alt="Alt Text" width="300" height="400">
 
 ### Ward 8
-
-![alt text](https://raw.githubusercontent.com/skyydog1/mplsRentAnalysis/refs/heads/main/Images/Log%20Total%20Property%20Value%20(Normalized).jpg)
+<img src="https://raw.githubusercontent.com/skyydog1/mplsRentAnalysis/refs/heads/main/Images/ward_8_ln_dot_sorted.png" alt="Alt Text" width="300" height="400">
 
 ### Ward 9
-
-![alt text](https://raw.githubusercontent.com/skyydog1/mplsRentAnalysis/refs/heads/main/Images/Log%20Total%20Property%20Value%20(Normalized).jpg)
+![alt text]()
 
 ### Ward 10
-
-![alt text](https://raw.githubusercontent.com/skyydog1/mplsRentAnalysis/refs/heads/main/Images/Log%20Total%20Property%20Value%20(Normalized).jpg)
+<img src="https://raw.githubusercontent.com/skyydog1/mplsRentAnalysis/refs/heads/main/Images/ward_10_ln_dot_sorted.png" alt="Alt Text" width="300" height="400">
 
 ### Ward 11
-
-![alt text](https://raw.githubusercontent.com/skyydog1/mplsRentAnalysis/refs/heads/main/Images/Log%20Total%20Property%20Value%20(Normalized).jpg)
+<img src="https://raw.githubusercontent.com/skyydog1/mplsRentAnalysis/refs/heads/main/Images/ward_11_ln_dot_sorted.png" alt="Alt Text" width="300" height="400">
 
 ### Ward 12
 
-![alt text](https://raw.githubusercontent.com/skyydog1/mplsRentAnalysis/refs/heads/main/Images/Log%20Total%20Property%20Value%20(Normalized).jpg)
+<img src="https://raw.githubusercontent.com/skyydog1/mplsRentAnalysis/refs/heads/main/Images/ward_12_ln_dot_sorted.png" alt="Alt Text" width="300" height="400">
 
 ### Ward 13
 
-![alt text](https://raw.githubusercontent.com/skyydog1/mplsRentAnalysis/refs/heads/main/Images/Log%20Total%20Property%20Value%20(Normalized).jpg)
-
+<img src="https://raw.githubusercontent.com/skyydog1/mplsRentAnalysis/refs/heads/main/Images/ward_13_ln_dot_sorted.png" alt="Alt Text" width="300" height="400">
 
 

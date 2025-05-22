@@ -13,6 +13,8 @@ The goal of this project practice visualizing information using Python, data ana
 2. Count of total properties listed
 3. total value of building, land value, and total value
 4. Quartiles and IQR for variability
+5. Linear regression
+6. Anova
 
 ### Price per Square Analysis :office:
 1. Normalized land, building, total value by square footage

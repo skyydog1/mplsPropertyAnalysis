@@ -1,7 +1,7 @@
 # Minneapolis Data
 
 ### Minneapolis
-<img src="https://raw.githubusercontent.com/skyydog1/mplsRentAnalysis/refs/heads/main/Images/Log%20Total%20Property%20Value%20(Normalized)_no_wards.jpg" alt="Alt Text" width="481" height="624"> <img src="https://raw.githubusercontent.com/skyydog1/mplsRentAnalysis/refs/heads/main/Images/minneapolis_ridgeline.png" alt="Alt Text" width="556" height="556">
+<img src="https://raw.githubusercontent.com/skyydog1/mplsRentAnalysis/refs/heads/main/Images/combined_property_value_graph.jpg" alt="Alt Text">
 
 ### Ward 1
 <img src="https://raw.githubusercontent.com/skyydog1/mplsRentAnalysis/refs/heads/main/Images/ward_1_ln_dot_sorted.png" alt="Alt Text" width="500" height="600">

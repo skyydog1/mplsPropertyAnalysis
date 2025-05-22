@@ -1,8 +1,10 @@
 # Minneapolis Rent Analysis :house:
 
-This project aims to look at Minneapolis property data (2020 + 2022) to determine what factors drive prices in Minneapolis, and practice visualizing information using Python, and increase access of information to property values.
+### The Driving Question
+What is the current status of the Minneapolis property market? What factors drive prices in Minneapolis? 
 
-This will be geared towards property analysis, for real estate agents and for those analyzing the Minneapolis housing market.
+
+The goal of this project practice visualizing information using Python, data analysis, and creating something.
 
 # What I aim to have done by the end of the project :heavy_check_mark:
 

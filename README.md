@@ -1,4 +1,4 @@
-# Minneapolis Rent Analysis :house:
+# Minneapolis Property Analysis :house:
 
 ### The Driving Question
 What is the current status of the Minneapolis property market? What factors drive prices in Minneapolis? 

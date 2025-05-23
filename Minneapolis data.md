@@ -6,7 +6,13 @@
 <!-- 
 
 I'm not really sure what to write here... I made my graph though... Now what?
-Maybe this format:
+
+Next plans:
+1. Remove anomalies (Properties under $1000 because they're going to be useless empty lots)
+2. Change scatterplot so that propeties over 1 mil are on a separate color paletter
+3. Use geopandas to add wards using the downloaded ward data
+4. Finish photoshopping combined map
+5. Add most expensive building
 
 --> 
 <p>

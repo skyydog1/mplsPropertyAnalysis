@@ -1,4 +1,3 @@
-## Minneapolis
 <p align="center">
   <img src="https://raw.githubusercontent.com/skyydog1/mplsRentAnalysis/refs/heads/main/Images/combined_property_value_graph.jpg" alt="Alt Text">
 </p>

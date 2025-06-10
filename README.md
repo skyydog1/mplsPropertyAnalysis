@@ -6,7 +6,7 @@ ________________________________________________________________________________
 
 # Minneapolis Property Analysis
 
-DATA FOUND UNDER MINNEAPOLISDATA.MD!
+PLOTS FOUND UNDER MINNEAPOLISDATA.MD!
 
 What is the current status of the Minneapolis property market? What factors drive prices in Minneapolis? 
 
